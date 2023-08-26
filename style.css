@@ -71,7 +71,7 @@ body {
 
 .section {
   border-bottom: 1px solid var(--light-grayish-blue);
-  padding: 0.5rem 0;
+  padding: 0.8rem 0;
   margin: 0 1.5rem;
 }
 
@@ -119,7 +119,7 @@ body {
 .answer {
   width: 38ch;
   font-size: 12px;
-  padding: 10px 0;
+  padding: .8rem 0;
   display: none;
   font-weight: 400;
   color: var(--grayish-blue);
@@ -226,18 +226,18 @@ body {
 
 @keyframes heightI-mobile {
   from {
-    height: 2.5rem;
+    height: 3rem;
   }
   to {
-    height: 5.5rem;
+    height: 7rem;
   }
 }
 
 @keyframes heightD-mobile {
   from {
-    height: 5.5rem;
+    height: 7rem;
   }
   to {
-    height: 2.5rem;
+    height: 3rem;
   }
 }
